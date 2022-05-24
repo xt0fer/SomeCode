@@ -1,5 +1,7 @@
 # some code projects
 
+Looking for existing Java projects that students can hack on to get better at Just Coding.
+
 TextEditor "works" not all the things implemented; could be part of the lab.
 
 The civilization game is kinda mind blowing.
