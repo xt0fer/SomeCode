@@ -11,7 +11,9 @@ The Airways thing is a mess; needs a modern database
 
 Payroll needs a modern database
 
-neither Pongs work.
+the Pong works.
+
+kapps works if you `java -cp .. kapps.JApps` fom the kapps folder
 
 All code was simply `javac *.java; java "mainclasswhatever"`
 
