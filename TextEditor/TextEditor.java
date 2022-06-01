@@ -3,6 +3,15 @@ import java.awt.event.*;
 import java.io.*;
 import java.util.*;
 
+// Things to add:
+// find/replace implementation
+// when you exit, you must NOT lose un-saved changes
+// add a new window, scrollable, with some editor help documentation in it.
+// implement Word Wrap (yeah, look it up)
+// add a font panel, so you can change the font you edit in.
+// add a way to print the current file.
+// add a way to set the page in portrait or landscape mode
+
 //TextEditor class starts here
 class TextEditor extends Frame implements ActionListener {
     TextArea ta = new TextArea();
